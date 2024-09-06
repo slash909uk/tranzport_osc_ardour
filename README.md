@@ -1,4 +1,6 @@
 # tranzport_osc_ardour
+ARCHIVED repo moved to: https://codeberg.org/slash909uk/tranzport_osc_ardour
+
 Frontier Tranzport to Ardour interface using OSC (Open Sound Control) and libusb on Linux
 Cmd syntax to match Ardour 6 release
 inspired by the work of the Ardour team regarding the mapping and display
